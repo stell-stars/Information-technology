@@ -8,6 +8,4 @@ function display_none_block() {
         secretText.style.display = "none";
     }
 }
-
-
 btn.addEventListener('click', display_none_block);
